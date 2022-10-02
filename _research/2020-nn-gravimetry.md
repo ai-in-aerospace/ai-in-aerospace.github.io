@@ -10,12 +10,9 @@ header:
   teaser: assets/EarthPerts.jpg
 
 ---
-<!-- ![EarthPerts](/assets/EarthPerts_original.jpg) -->
-
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/EarthPerts_original.jpg" alt=""> 
-  <!-- <img src="/assets/EarthPerts_original.jpg" alt=""> -->
   <figcaption>Once you account for Earth's oblateness, these are the next most important perturbations to model.</figcaption>
 </figure> 
 

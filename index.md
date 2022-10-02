@@ -48,7 +48,7 @@ feature_row:
     btn_class: "btn--inverse"
     url: /research/2021-pinn-gm-1
 
-  - image_path: /assets/NN_single.jpg
+  - image_path: /assets/NN_Single.jpg
     title: "Neural Networks for Gravity Modeling"
     excerpt: "Naively applying neural networks to the gravity modeling problem will only get you so far..."
     btn_label: "Read More"
