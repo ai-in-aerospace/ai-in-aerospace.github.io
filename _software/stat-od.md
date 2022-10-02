@@ -8,7 +8,6 @@ classes: wide
 
 header:
     teaser: assets/Custom_Profile.jpeg
-    image: "assets/Custom_Profile.jpeg"
 
 ---
 
