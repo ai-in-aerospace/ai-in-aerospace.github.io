@@ -15,8 +15,8 @@ header:
 
 The old PINN gravity model had a fair amount of room for improvement: smarter feature engineering, more physics informed constraints, more expressive architectures. Combined, these changes produce a considerably more powerful model which is explored here. 
 
-This paper was just accepted in Celestial Mechanics and Dynamical Astronomy. A link will be posted once available.
-{: .notice--info}
+<!-- This paper was just accepted in Celestial Mechanics and Dynamical Astronomy. A link will be posted once available.
+{: .notice--info} -->
 
 
 <!-- 
