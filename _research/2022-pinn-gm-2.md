@@ -22,5 +22,5 @@ This paper was just accepted in Celestial Mechanics and Dynamical Astronomy. A l
 <!-- 
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/9M3PZGoWVTc?controls=0" frameborder="0" allowfullscreen></iframe>
-
-[Download the paper](https://hanspeterschaub.info/Papers/Martin2022b.pdf){: .btn .btn--primary .btn--large} -->
+ -->
+[Read the paper](https://rdcu.be/cWY11){: .btn .btn--primary .btn--large}
