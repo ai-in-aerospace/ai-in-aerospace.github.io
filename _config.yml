@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning for Astrodynamics"
+title                    : "AI for Spacecraft Operations"
 title_separator          : "-"
 icon                     : fas fa-fw fa-satellite
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "John Martin"
-description              : "Blending dynamical systems theory with artificial intelligence to enhance spacecraft exploration capabilities."
+name                     : "Adam Herrmann"
+description              : "Exploring artificial intelligence techniques for spacecraft operations."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : joma5012/GravNN # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : assets/Custom_Profile.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : assets/concept_image_agile.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -105,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "John Martin"
-  avatar           : assets/Custom_Profile.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Adam Herrmann"
+  avatar           : assets/concept_image_agile.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in the Autonomous Vehicle Systems Lab"
   location         : "Colorado"
-  # email            : joma5012@colorado.edu
+  email            : adam.herrmann@colorado.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:joma5012@colorado.edu"
+      url: "mailto:adam.herrmann@colorado.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/joma5012"
+      url: "https://github.com/ai.in.aerospace"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/joma5012
+      url: https://github.com/ai.in.aerospace
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
