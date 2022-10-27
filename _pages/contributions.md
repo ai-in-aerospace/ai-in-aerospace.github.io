@@ -4,7 +4,7 @@ layout: collection
 permalink: /contributions/
 collection: contributions
 entries_layout: grid
-sort_order: reverse
+sort_order: forward
 classes:
     - wide
     - landing
