@@ -1,6 +1,6 @@
 ---
 
-title: "Research"
+title: "Code Contributions"
 author_profile: true
 classes: 
     - wide

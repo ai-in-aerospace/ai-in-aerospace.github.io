@@ -1,7 +1,7 @@
 ---
-name: "Agile Earth-Observing Satellite Scheduling Problem Simulation"
+name: "Agile Earth-Observing Satellite Simulation"
 layout: single
-title:  "Agile Earth-Observing Satellite Scheduling Problem Simulation"
+title:  "Agile Earth-Observing Satellite Simulation"
 classes: wide
 # date:   2020-08-09 18:22:51 -0600
 collection: contributions
@@ -18,7 +18,8 @@ header:
 This is a simulator created for reinforcement learning research. In the agile EOS scheduling problem, a
 satellite in low-Earth orbit attempts to maximize the weighted sum of surface targets imaged and downlinked to seven
 ground stations on the surface of the Earth while managing resources such as power, data buffer storage, and reaction
-wheel speeds.
+wheel speeds. The satellite has a set of targets, each with its own priority, it has access to throughout the planning
+horizon.
 
 [Paper](https://hanspeterschaub.info/Papers/Herrmann2022a.pdf){: .btn .btn--primary .btn--large}
 [Source Code](https://bitbucket.org/avslab/basilisk-gym-interface/src/develop/basilisk_env/envs/multiTgtEarthEnvironment/){: .btn .btn--primary .btn--large}
