@@ -283,13 +283,13 @@ compress_html:
 
 
 
-collections:
-  research:
-    output: true
-    permalink: /:collection/:name
-  software:
-    output: true
-    permalink: /:collection/:name
+#collections:
+#  research:
+#    output: true
+#    permalink: /:collection/:name
+#  software:
+#    output: true
+#    permalink: /:collection/:name
   
 
 
