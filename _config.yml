@@ -283,13 +283,10 @@ compress_html:
 
 
 
-#collections:
-#  research:
-#    output: true
-#    permalink: /:collection/:name
-#  software:
-#    output: true
-#    permalink: /:collection/:name
+collections:
+  contributions:
+    output: true
+    permalink: /:collection/:name
   
 
 
@@ -316,26 +313,14 @@ defaults:
       classes: wide
       author_profile: true
 
-#  # _research
-#  - scope:
-#      path: ""
-#      type: research
-#    values:
-#      layout: single
-#      classes: wide
-#      read_time: true
-#      author_profile: true
-#      share: true
-#      comments: true
-#
-#  # _software
-#  - scope:
-#      path: ""
-#      type: software
-#    values:
-#      layout: single
-#      classes: wide
-#      read_time: true
-#      author_profile: true
-#      share: true
-#      comments: true
+  # _contributions
+  - scope:
+      path: ""
+      type: contributions
+    values:
+      layout: single
+      classes: wide
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true

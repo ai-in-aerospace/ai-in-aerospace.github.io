@@ -1,11 +1,10 @@
 ---
-name: "GPU Paper"
+name: "On-Board Data Generation Modeling"
 layout: single
-title:  "GPGPU Spherical Harmonics Gravity Model"
+title:  "On-Board Data Generation Modeling"
 classes: wide
-date:   2020-08-09 18:22:51 -0600
-collection: research
-tags: conference
+# date:   2020-08-09 18:22:51 -0600
+collection: contributions
 
 header:
   teaser: assets/GPGPU.jpg
@@ -34,5 +33,6 @@ This work investigates if / how the spherical harmonic gravity model can be para
 
 {% include video id="oFyEA2Sj26Q" provider="youtube" %}
 
-[Download the paper](https://hanspeterschaub.info/Papers/Martin2020a.pdf){: .btn .btn--primary .btn--large}
+[Code](https://bitbucket.org/avslab/basilisk/src/develop/src/simulation/onboardDataHandling/){: .btn .btn--primary .btn--large}
 
+[Documentation](https://hanspeterschaub.info/basilisk/Documentation/simulation/onboardDataHandling/index.html?highlight=onboard+data){: .btn .btn--primary .btn--large}
