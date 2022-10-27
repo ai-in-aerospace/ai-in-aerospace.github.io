@@ -15,7 +15,8 @@ header:
   <figcaption>Nadir-Science Earth-Observing Satellite Scheduling Problem Concept Figure.</figcaption>
 </figure> 
 
-This is a simulator created for reinforcement learning research. In the nadir-science EOS scheduling problem, a
+This is a simulator created for reinforcement learning research that utilizes the [Basilisk astrodynamics
+software architecture](https://hanspeterschaub.info/basilisk/index.html). In the nadir-science EOS scheduling problem, a
 satellite in low-Earth orbit attempts to maximize the amount of data downlinked to seven ground stations on the
 surface of the Earth while managing resources such as power, data buffer storage, and reaction wheel speeds. Data is
 collected when the satellite points the instrument in the nadir-direction.

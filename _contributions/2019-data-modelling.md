@@ -17,9 +17,9 @@ header:
 </figure> 
 
 On-board science data generation, downlink, and storage are an important part of planning and scheduling for both
-Earth-orbiting and deep space missions. Throughout my PhD, I've created many simulation tools within Basilisk to support
-the modeling of on-board science data. This includes data buffers, instruments, transmitters, etc. that all interact
-with one another to manage data on-board the spacecraft.
+Earth-orbiting and deep space missions. Throughout my PhD, I've created many simulation tools within the [Basilisk astrodynamics
+software architecture](https://hanspeterschaub.info/basilisk/index.html) to support the modeling of on-board science data.
+This includes data buffers, instruments, transmitters, etc. that all interact with one another to manage data on-board the spacecraft.
 
 ### On-Board Data Modeling Components
 [Source Code](https://bitbucket.org/avslab/basilisk/src/develop/src/simulation/onboardDataHandling/){: .btn .btn--primary .btn--large}
