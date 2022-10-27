@@ -7,11 +7,11 @@ classes: wide
 collection: contributions
 
 header:
-  teaser: assets/GPGPU.jpg
+  teaser: assets/data_system_diagram.png
 ---
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/GPGPU_original.jpg" alt=""> 
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/data_system_diagram.png" alt="">
   <figcaption>Parallelizing the spherical harmonic algorithm requires careful though how operations are sequence.</figcaption>
 </figure> 
 
