@@ -15,6 +15,10 @@ header:
   <figcaption>Small Body Science Concept Figure.</figcaption>
 </figure>
 
-Small body science description here.
+This is a simulator created for reinforcement learning research. In the small body science operations problem,
+a spacecraft moves between waypoints defined in the small body's Hill frame while collecting mapping data and surface
+target images. The spacecraft has access to the DSN every 24 hours and has to manage resources such as battery charge,
+data buffer storage, and fuel while avoiding collision with the body.
 
+[Paper](https://hanspeterschaub.info/Papers/Herrmann2022c.pdf){: .btn .btn--primary .btn--large}
 [Source Code](https://bitbucket.org/avslab/basilisk-gym-interface/src/develop/basilisk_env/envs/smallBodyScienceEnvironment/){: .btn .btn--primary .btn--large}
