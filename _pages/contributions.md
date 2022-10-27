@@ -10,4 +10,4 @@ classes:
     - landing
 ---
 
-List all of the research entries
+Please refer to the links below for code I've written for various projects in my PhD.

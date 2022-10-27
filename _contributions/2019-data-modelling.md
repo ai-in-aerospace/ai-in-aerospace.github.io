@@ -12,7 +12,8 @@ header:
 
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/data_system_diagram.png" alt="">
-  <figcaption>Parallelizing the spherical harmonic algorithm requires careful though how operations are sequence.</figcaption>
+  <figcaption>Example block diagram for a data system with a data buffer, transmitter, and instrument that only
+  images when certain access constraints are met.</figcaption>
 </figure> 
 
 On-board science data generation, downlink, and storage are an important part of planning and scheduling for both
