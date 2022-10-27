@@ -109,7 +109,7 @@ author:
   avatar           : assets/concept_image_agile.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in the Autonomous Vehicle Systems Lab"
   location         : "Colorado"
-  email            : adam.herrmann@colorado.edu
+  # email            : adam.herrmann@colorado.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -316,26 +316,26 @@ defaults:
       classes: wide
       author_profile: true
 
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      classes: wide
-      read_time: true
-      author_profile: true
-      share: true
-      comments: true
-
-  # _software
-  - scope:
-      path: ""
-      type: software
-    values:
-      layout: single
-      classes: wide
-      read_time: true
-      author_profile: true
-      share: true
-      comments: true
+#  # _research
+#  - scope:
+#      path: ""
+#      type: research
+#    values:
+#      layout: single
+#      classes: wide
+#      read_time: true
+#      author_profile: true
+#      share: true
+#      comments: true
+#
+#  # _software
+#  - scope:
+#      path: ""
+#      type: software
+#    values:
+#      layout: single
+#      classes: wide
+#      read_time: true
+#      author_profile: true
+#      share: true
+#      comments: true
